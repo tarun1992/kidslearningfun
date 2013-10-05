@@ -1,0 +1,60 @@
+#text1 a{
+    display: inline-block;
+    color: #ff3300;
+    -webkit-transition: 2s;
+    -moz-transition: 2s;
+    -o-transition: 2s;
+    -ms-transition: 2s;
+    transition: 2s;
+}
+ 
+#text1 a:hover {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+	color:#0033cc;
+}
+
+
+#text2 a{
+    display: inline-block;
+    color: #ff3300;
+    -webkit-transition: 2s;
+    -moz-transition: 2s;
+    -o-transition: 2s;
+    -ms-transition: 2s;
+    transition: 2s;
+}
+
+ 
+#text2 a:hover {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+	color:#ff0066;
+}
+
+
+#text3 a{
+    display: inline-block;
+    color: #ff3300;
+    -webkit-transition: 2s;
+    -moz-transition: 2s;
+    -o-transition: 2s;
+    -ms-transition: 2s;
+    transition: 2s;
+}
+
+ 
+#text3 a:hover {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+	color:#006600;
+}
